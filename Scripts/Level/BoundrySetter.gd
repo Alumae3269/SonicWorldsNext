@@ -9,9 +9,9 @@ extends Area2D
 @export var topBoundry  = 0
 
 @export var setRight = true
-@export var rightBoundry = 320
+@export var rightBoundry = 512
 @export var setBottom = true
-@export var bottomBoundry = 224
+@export var bottomBoundry = 288
 
 @export var scrollSpeed = 0 # 0 will be instant
 
