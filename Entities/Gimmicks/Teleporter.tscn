@@ -488,6 +488,7 @@ region_rect = Rect2(0, 0, 0, 8)
 
 [node name="BeamWarmUp" type="AudioStreamPlayer" parent="."]
 stream = ExtResource("6_yj68g")
+volume_db = -6.0
 bus = &"SFX"
 
 [node name="Warp" type="AudioStreamPlayer" parent="."]
